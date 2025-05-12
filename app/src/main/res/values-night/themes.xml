@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Walrus" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Couleurs principales -->
+        <item name="colorPrimary">@color/blanc_pale</item> <!-- Bleu pour les éléments principaux -->
+        <item name="colorOnPrimary">@color/bleu_marine</item> <!-- Blanc pour le texte sur fond primaire -->
+
+        <!-- Couleurs secondaires -->
+        <item name="colorSecondary">@color/blanc_pale</item> <!-- Bleu pour les boutons secondaires -->
+        <item name="colorOnSecondary">@color/bleu_marine</item> <!-- Blanc pour le texte sur fond secondaire -->
+
+        <!-- Couleurs de surface -->
+        <item name="colorOnSurface">@color/blanc_pale</item> <!-- Blanc pour le texte sur les surfaces -->
+
+        <!-- Autres couleurs -->
+        <item name="android:textColorPrimary">@color/blanc_pale</item> <!-- Blanc pour le texte principal -->
+
+        <item name="android:background">@color/bleu_marine</item>
+    </style>
+</resources>

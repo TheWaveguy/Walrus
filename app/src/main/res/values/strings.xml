@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Walrus</string>
+    <string name="app_name_Uppercase">WALRUS</string>
+    <string name="inputTexteATrad">Texte a traduire en morse</string>
+    <string name="boutonLancement">Lancer</string>
+    <string name="descriptionSlideBar">Vitesse du flash</string>
+    <string name="descriptionImageLogo">Logo de l\'application Walrus représentant un morse</string>
+</resources>
